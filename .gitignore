@@ -13,6 +13,7 @@ src/-lstdc++.res
 
 # Build/test artifacts
 *.exe
+!fairy-stockfish.exe
 tests/syzygy
 
 # ffishjs
